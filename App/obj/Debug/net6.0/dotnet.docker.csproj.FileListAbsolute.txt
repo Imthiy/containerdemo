@@ -1,0 +1,15 @@
+C:\Users\Administrator\demoapp\App\bin\Debug\net6.0\dotnet.docker.exe
+C:\Users\Administrator\demoapp\App\bin\Debug\net6.0\dotnet.docker.deps.json
+C:\Users\Administrator\demoapp\App\bin\Debug\net6.0\dotnet.docker.runtimeconfig.json
+C:\Users\Administrator\demoapp\App\bin\Debug\net6.0\dotnet.docker.dll
+C:\Users\Administrator\demoapp\App\bin\Debug\net6.0\dotnet.docker.pdb
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.csproj.AssemblyReference.cache
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.AssemblyInfoInputs.cache
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.AssemblyInfo.cs
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.dll
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\refint\dotnet.docker.dll
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.pdb
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\dotnet.docker.genruntimeconfig.cache
+C:\Users\Administrator\demoapp\App\obj\Debug\net6.0\ref\dotnet.docker.dll
